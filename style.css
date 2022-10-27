@@ -59,7 +59,7 @@ header {
 
 .logo {
   font-family: "Pangolin", cursive;
-  font-size: 72px;
+  font-size: 50px;
   color: #fff;
 }
 
@@ -176,7 +176,7 @@ footer p {
   form select,
   form input {
     margin-bottom: 0px;
-    width: 200px;
+    width: 15vw;
   }
 
   /* ---  Groups & Items --- */
